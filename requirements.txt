@@ -6,4 +6,4 @@ opencv-python
 matplotlib
 Pillow
 scikit-learn
-import cv2
+cv2
